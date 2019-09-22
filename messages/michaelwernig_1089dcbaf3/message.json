@@ -1,0 +1,742 @@
+{
+  "participants": [
+    {
+      "name": "Michael Wernig"
+    },
+    {
+      "name": "Connor Leggett"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1506801950432,
+      "content": "Ran a 17:51",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1444580837258,
+      "content": "I have drivers Ed. But I'll be back around 7:15.  And you better save me a root beer Connor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418175965187,
+      "content": "Haha.  It's so peaceful \u00f3\u00be\u008c\u00b4.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1418175808547,
+      "content": "Michael i'll stop cariling",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1418174820309,
+      "content": "You know where it says 8 members",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418174782261,
+      "content": "\u00f3\u00be\u008c\u00b4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418174779709,
+      "content": "Idk how to add people",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418174758536,
+      "content": "My bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1418174752280,
+      "content": "No you didn't...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418174696758,
+      "content": "I didn't ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1418174688259,
+      "content": "Michael I'm messaging Carly and you didn't add her to the indoor track group",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1418003365425,
+      "content": "How about now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418003235009,
+      "content": "Hehe. You'll find out soon enough",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1418003206701,
+      "content": "Really!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418003124706,
+      "content": "Hehe\u00f3\u00be\u008d\u0087",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1418003106756,
+      "content": "Michael... why?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418003089151,
+      "content": "I'll ask the questions here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1418003077518,
+      "content": "What why did you need that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418003016005,
+      "content": "That is all I need. Continue to your regularly scheduled program",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418003001136,
+      "content": "Oh okay.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1418002972039,
+      "content": "Since I asked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418002895070,
+      "content": "No. As in how long have you known that she has a boyfriend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1418002858977,
+      "content": "My whole life",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418002693149,
+      "content": "How long have you known Connor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1418002133120,
+      "content": "So why did you want to know?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1418001424240,
+      "content": "Or Gilmanton, I don't know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418001242010,
+      "content": "Gilford ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1418001221457,
+      "content": "David walker",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418001208978,
+      "content": "Who is the boyfriend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418001192021,
+      "content": "Sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418001190593,
+      "content": "Oh god that wasn't supposed to go to you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1418001163446,
+      "content": "Yes Michael... you're always right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418001137548,
+      "content": "Told you so \u00f3\u00be\u008d\u0087",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1418001113141,
+      "content": "Yeah I guess so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418001021362,
+      "content": "Are you telling me she's had a bf this entire time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1418000897881,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1418000671156,
+      "content": "I asked her twice, she said idk both times so I'm thinking it's a yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417999500760,
+      "content": "Right now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417999483402,
+      "content": "Okay I will",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417999435312,
+      "content": "I don't want this I think crap.  Just ask her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417999419399,
+      "content": "I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417999410677,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417999362480,
+      "content": "Connor. Yes. Or no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417999334588,
+      "content": "I don't know, but of I had to guess I'd say yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417999296739,
+      "content": "None of this maybe crap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417999291164,
+      "content": "Yes or no.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417999275263,
+      "content": "What?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417999245657,
+      "content": "Does she have a bf to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417999223890,
+      "content": "I don't know, some people say she does but she said it's not really a thing anymore but I'm pretty sure it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417999155282,
+      "content": "Does she have a bf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417999128475,
+      "content": "No, not like a serious commitment thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417999073726,
+      "content": "Jess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417999064490,
+      "content": "Yes?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417998941346,
+      "content": "Connor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417998139843,
+      "content": "Hi Michael",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417995242120,
+      "content": "Connor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417981366957,
+      "content": "You never answered my question",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417920803208,
+      "content": "Okay if it's an emergency you can text me. Goodnight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417920778099,
+      "content": "And go to bed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417920773266,
+      "content": "Well if I need you. I'm txting you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417920761834,
+      "content": "Can I go to sleep now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417920755055,
+      "content": "Sorry I'm not on all the time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417920739533,
+      "content": "Yeah. Sometime.  Not all the time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417920715910,
+      "content": "I'm on sometimes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417920691149,
+      "content": "Yeah your okay  but your never on Facebook",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417920680943,
+      "content": "While Facebook messages cost nothing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417920661563,
+      "content": "About 1.6 cents",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417920639542,
+      "content": "What about txts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417920632355,
+      "content": "About 5 cents a minute",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417920571940,
+      "content": "How much does it cost",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417920560660,
+      "content": "But really I won't",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417920546564,
+      "content": "Yeah you'll be fine buddy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417920522946,
+      "content": "No I won't you can talk to me on here if you really need to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417920492121,
+      "content": "You'll be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417920477644,
+      "content": "387 8823 but if you text or call me I have to pay...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417920362025,
+      "content": "What's your number",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417920357882,
+      "content": "You better friggin respond.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417920348824,
+      "content": "When I send you a txt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417920342694,
+      "content": "I don't think you understand",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417920336176,
+      "content": "Connor.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417920315084,
+      "content": "You sent it earlier so I thought you were doing other stuff by then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417920270681,
+      "content": "You read it at 8 o'clock",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1417920251731,
+      "content": "Michael I was like two minutes away from falling asleep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417920216862,
+      "content": "I know you read this!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417911506167,
+      "content": "Connorrrrr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1417909019837,
+      "content": "Do you have a thing with Jess Ladd. Like a serious commitment thing.  I cus I got like twenty girls lined up waiting for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1403703943231,
+      "content": "turth is your really smart and you borke up with mel :))))))    then got back together :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1402711607698,
+      "content": "I don't know. Well see you then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1402711580833,
+      "content": "Just bring it.   What else are wevgunna do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1402711536445,
+      "content": "Why?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1402711114576,
+      "content": "Bringa soccer ball to my house tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1395451733639,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1395451720844,
+      "content": "So i'll see you tomorrow at the breakfast",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1395451693595,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1395451676839,
+      "content": "Okay so maybe in a while when they're actually friends",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1395451628692,
+      "content": "because cloe just made up withmel like     and hour ago",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1395451619393,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1395451571897,
+      "content": "Oh okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1395451555621,
+      "content": "i dont think lcoe would wanna go with that group",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1395451541816,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1395451534941,
+      "content": "tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1395451493438,
+      "content": "Hey tomorrow Patrick,  Mackenzie, mel and I are going to see a movie. You should go with Cloe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1395451425671,
+      "content": "haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1395451417689,
+      "content": "Nice:)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1395451057536,
+      "content": "Michael sent a photo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1395451045712,
+      "content": "Haha look we made up.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1388417911259,
+      "content": "Okay. I understand. It would be awkward if she did come. I've got to go skiing  now so bye.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1388417892293,
+      "content": "Beware",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1388417846951,
+      "content": "just a heads up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1388417842890,
+      "content": "if you do bring her joe will send about a million snowballs at her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1388417780619,
+      "content": "kasey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1388417778966,
+      "content": "sam can bring his girlfriend but no kaset",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1388417754612,
+      "content": "Okay. ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1388417717132,
+      "content": "I fear that you should not bring Kasey to any of the tubing parties",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1388417695215,
+      "content": "But what?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1388417689363,
+      "content": "yes but ...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1388417680531,
+      "content": "Oh are you doing that this year?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1388417661055,
+      "content": "Tubing ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1388417649046,
+      "content": "About what?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1388416837963,
+      "content": "Connor.      We need to have a talk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Wernig",
+      "timestamp_ms": 1384603026560,
+      "content": "Hey Connor you there?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Michael Wernig",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "MichaelWernig_1089dcbaf3"
+}

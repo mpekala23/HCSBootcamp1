@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Kevin Dillon"
+    },
+    {
+      "name": "Connor Leggett"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1442535856180,
+      "content": "Okay it won't be my fault",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Dillon",
+      "timestamp_ms": 1442535802710,
+      "content": "Don't worry I'll bring some anyways",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Connor Leggett",
+      "timestamp_ms": 1442535775291,
+      "content": "Sorry we're not allowed to bring live animals",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Dillon",
+      "timestamp_ms": 1442535693682,
+      "content": "We should have live seagulls for the spirit wallways",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kevin Dillon",
+      "timestamp_ms": 1384642230114,
+      "content": "No",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kevin Dillon",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "KevinDillon_f6193ac9b8"
+}
